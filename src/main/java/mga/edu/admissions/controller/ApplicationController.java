@@ -1,4 +1,4 @@
-package mga.edu.admissions;
+package mga.edu.admissions.controller;
 
 import java.net.URI;
 import java.util.Collection;
